@@ -1,0 +1,29 @@
+ShopEase Booking & Pre-Order Policy (Fictional — for demo purposes only)
+
+1. Pre-Order Bookings
+   - Some upcoming products can be "booked" (pre-ordered) before general
+     availability by paying a fully refundable deposit of 10% of the price.
+   - The remaining balance is charged automatically when the item ships.
+
+2. Booking Cancellation
+   - Pre-order bookings can be cancelled anytime before the item ships for
+     a full deposit refund, processed within 3-5 business days.
+
+3. Booking Priority
+   - Pre-orders are fulfilled in the order they were booked ("first booked,
+     first shipped") once stock becomes available.
+
+4. Delivery Slot Booking
+   - For large items (e.g. furniture, appliances), customers can book a
+     specific delivery date and 3-hour time window at checkout.
+   - Delivery slots can be rescheduled up to 24 hours before the booked
+     slot at no charge; rescheduling within 24 hours may incur a small fee.
+
+5. Service Appointment Booking
+   - ShopEase Care technicians can be booked for in-home setup of certain
+     electronics. Appointments can be booked, rescheduled, or cancelled from
+     the "Bookings" section of the customer account.
+
+6. Missed Bookings
+   - If a customer misses a booked delivery or appointment without
+     rescheduling, a new booking must be made and a re-delivery fee may apply.

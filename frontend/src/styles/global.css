@@ -1,0 +1,133 @@
+/* ===========================================================
+   Design tokens
+   A support console needs to read as calm and trustworthy, not
+   like a generic gradient-and-rounded-card SaaS template. We use
+   an ink sidebar, warm paper canvas, a single teal accent for
+   primary actions, and amber/red reserved ONLY for sentiment and
+   priority signals so they carry real meaning.
+=========================================================== */
+:root {
+  --ink: #121A19;
+  --ink-soft: #1B2523;
+  --paper: #F5F2EA;
+  --surface: #FFFFFF;
+  --surface-muted: #EFEBE0;
+  --border: #DCD5C4;
+  --border-strong: #C6BEA9;
+
+  --text: #17201E;
+  --text-muted: #5B6663;
+  --text-on-ink: #EDEAE0;
+  --text-on-ink-muted: #9AA6A2;
+
+  --teal: #1F6F63;
+  --teal-dark: #164F46;
+  --teal-tint: #E4EFEC;
+
+  --amber: #B8792B;
+  --amber-tint: #F6E9D4;
+
+  --red: #A6402F;
+  --red-tint: #F5E1DC;
+
+  --green: #3B7A4A;
+  --green-tint: #E3EFE3;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  --shadow-card: 0 1px 2px rgba(18, 26, 25, 0.06), 0 4px 14px rgba(18, 26, 25, 0.05);
+
+  --font-ui: "Manrope", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-ui);
+  color: var(--text);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+}
+
+button, input, textarea {
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 8px;
+}
+
+/* ---------- App shell ---------- */
+
+.app-shell {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.main-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  height: 100vh;
+}
+
+.page-shell {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.page-scroll {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.page-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 28px 32px 48px;
+}
+
+/* ---------- Focus visibility (accessibility floor) ---------- */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--teal);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 860px) {
+  .page-inner {
+    padding: 18px 16px 32px;
+  }
+}

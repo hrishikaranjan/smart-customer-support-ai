@@ -1,0 +1,41 @@
+ShopEase Frequently Asked Questions (Fictional — for demo purposes only)
+
+Q: How do I track my order?
+A: Use your order ID with the ShopEase support assistant, or check the
+"My Orders" page. Order statuses include Processing, Shipped, Out for
+Delivery, Delivered, and Cancelled.
+
+Q: How do I contact a human agent?
+A: Ask the ShopEase support assistant to speak with a human, or say you
+are unsatisfied with the automated help. A support ticket will be created
+and a human agent will follow up.
+
+Q: What payment methods are accepted?
+A: ShopEase accepts all major credit/debit cards, PayPal, and popular
+digital wallets. Payment is charged at the time of order confirmation,
+except for pre-order deposits (see Booking Policy).
+
+Q: Can I change my shipping address after placing an order?
+A: Yes, as long as the order has not yet shipped. Once shipped, the
+address can no longer be changed by ShopEase and must be handled with
+the courier directly.
+
+Q: Do you offer gift wrapping?
+A: Yes, gift wrapping is available at checkout for a flat fee of $2.99
+per item.
+
+Q: How do I create an account?
+A: You can create a ShopEase account during checkout, or beforehand from
+the sign-up page, using your email address.
+
+Q: Is my payment information secure?
+A: Yes, ShopEase uses industry-standard encryption and never stores raw
+card numbers on its own servers.
+
+Q: What if an item I want is out of stock?
+A: You can check current availability using the ShopEase support
+assistant, or sign up for a back-in-stock email alert on the product page.
+
+Q: How long does customer support take to respond?
+A: The AI assistant responds instantly. Escalated tickets are typically
+reviewed by a human agent within a few business hours.

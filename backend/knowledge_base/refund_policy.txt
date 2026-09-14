@@ -1,0 +1,34 @@
+ShopEase Refund Policy (Fictional — for demo purposes only)
+
+ShopEase offers refunds on eligible orders under the following conditions:
+
+1. Refund Eligibility
+   - Items must be requested for refund within 14 days of delivery.
+   - The item must be unused, in its original packaging, and include all accessories.
+   - Digital products and gift cards are non-refundable.
+   - Items marked "Final Sale" at checkout are not eligible for refund.
+
+2. Refund Process
+   - Customers can request a refund from the "My Orders" page or by asking
+     the ShopEase support assistant.
+   - Once approved, refunds are processed within 3-5 business days.
+   - Refunds are issued to the original payment method. Bank processing
+     times may add an additional 2-7 business days before funds appear.
+
+3. Damaged or Defective Items
+   - If an item arrives damaged or defective, customers should report it
+     within 48 hours of delivery with photos for a faster refund or replacement.
+   - Damaged/defective items are refunded in full, including original shipping cost.
+
+4. Partial Refunds
+   - Partial refunds may be issued if an item is returned without original
+     packaging or with signs of use, at ShopEase's discretion.
+
+5. Refund Status
+   - Refund status can be one of: "Requested", "Under Review", "Approved",
+     "Completed", or "Rejected".
+   - Customers can check refund status anytime using their order ID.
+
+6. Cancelled Orders
+   - If an order is cancelled before it ships, the full amount is refunded
+     automatically within 1-2 business days.

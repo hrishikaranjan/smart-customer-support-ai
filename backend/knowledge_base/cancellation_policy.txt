@@ -1,0 +1,28 @@
+ShopEase Cancellation Policy (Fictional — for demo purposes only)
+
+1. Cancelling Before Shipment
+   - Orders can be cancelled free of charge any time before their status
+     changes to "Shipped".
+   - Customers can cancel from the "My Orders" page or by asking the
+     ShopEase support assistant with their order ID.
+   - Cancelled orders are refunded in full automatically within 1-2
+     business days (see Refund Policy).
+
+2. Cancelling After Shipment
+   - Once an order has shipped, it can no longer be cancelled directly.
+   - Customers may refuse delivery, or request a return once the item
+     arrives, which follows the standard Refund Policy timelines.
+
+3. Cancelling Part of an Order
+   - For multi-item orders, individual items can be cancelled separately
+     as long as that specific item has not yet shipped. The rest of the
+     order will ship normally.
+
+4. Subscription or Recurring Orders
+   - Recurring/subscription orders can be cancelled anytime before the
+     next billing date to avoid being charged for the next cycle.
+   - Cancelling a subscription does not refund past charges already billed.
+
+5. Cancellation Confirmation
+   - A cancellation confirmation email is sent immediately after a
+     cancellation request is processed successfully.

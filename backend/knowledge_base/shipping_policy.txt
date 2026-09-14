@@ -1,0 +1,31 @@
+ShopEase Shipping Policy (Fictional — for demo purposes only)
+
+1. Shipping Methods
+   - Standard Shipping: 5-7 business days, free on orders over $50.
+   - Express Shipping: 2-3 business days, flat rate of $9.99.
+   - Overnight Shipping: 1 business day, flat rate of $19.99 (order before 2 PM local time).
+
+2. Order Processing Time
+   - Orders are processed within 1-2 business days before shipping.
+   - Orders placed on weekends or holidays are processed the next business day.
+
+3. Order Tracking
+   - A tracking number is emailed once the order ships.
+   - Tracking can also be viewed anytime via order status lookup using the order ID.
+   - Order statuses include: "Processing", "Shipped", "Out for Delivery",
+     "Delivered", and "Cancelled".
+
+4. International Shipping
+   - ShopEase currently ships to over 30 countries.
+   - International orders may take 7-21 business days depending on customs.
+   - Customers are responsible for any customs duties or import taxes.
+
+5. Delayed or Lost Packages
+   - If a package is delayed more than 3 days past its estimated delivery
+     date, customers should contact support for investigation.
+   - If a package is confirmed lost in transit, ShopEase will send a free
+     replacement or issue a full refund.
+
+6. Address Changes
+   - Shipping addresses can only be changed before an order status changes
+     to "Shipped". After that, the customer must contact the courier directly.
